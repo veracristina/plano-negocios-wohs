@@ -7,3 +7,6 @@ matplotlib
 seaborn
 scipy
 statsmodels
+xlsxwriter
+openpyxl
+# Add any additional libraries you need here
